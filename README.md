@@ -1,3 +1,4 @@
+<br>
 
 <h1 align="center"> Julianne Volotão :woman_technologist:	</h1>
 
@@ -14,14 +15,11 @@
   </a>
 </p>
 
-<br>
 
 <h3 align="center"> Olá, bem vindo(a)! :wave: </h3>
 
 <p align="center"> Me chamo Julianne Volotão, tenho 21 anos e sou de Santos litoral de São Paulo. </p>
 
-<br>
-<br>
 
 <h6> Eu sou: </h6>
 
