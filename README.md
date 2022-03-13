@@ -26,8 +26,7 @@
 - :purple_heart: Desenvolvedora Front-End.
 - :books: Estou cursando Sistemas de Informação e sou formada em técnicos de Informática para Internet e Programação de Jogos Digitais.
 - :hugs: Amo e estou sempre buscando aprender coisas novas e fico feliz quando posso ensinar ou ajudar alguém.
-- :nerd_face: Atualmente estou aprofundando o conhecimento nas tecnologias: ReactJS e Node.js.
-- :dart: Gostaria de aprender: Typescript, React Native, Flutter e GO lang.
+- :nerd_face: Atualmente estou aprofundando o conhecimento nas tecnologias: ReactJS e React Native.
 - :video_game: E meus hobbies são: Jogos, fotografia e criação de telas (UI).
 
 <br>
