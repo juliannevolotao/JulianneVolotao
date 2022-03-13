@@ -1,8 +1,8 @@
 <br>
 
-<h1 align="center"> Julianne Volotão :woman_technologist:	</h1>
+<h1 > Julianne Volotão :woman_technologist:	</h1>
 
-<p align="center"> 
+<p > 
   <a href="https://github.com/juliannevolotao"> 
     <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/juliannevolotao" alt="Github badge" />
   </a>
@@ -16,10 +16,9 @@
 </p>
 
 
-<h3 align="center"> Olá, bem vindo(a)! :wave: </h3>
+<h3> Olá, bem vindo(a)! :wave: </h3>
 
-<p align="center"> Me chamo Julianne Volotão, tenho 22 anos e sou de Santos, litoral de São Paulo. </p>
-
+<p > Me chamo Julianne Volotão, tenho 22 anos e sou de Santos, litoral de São Paulo. </p>
 
 <h6> Eu sou: </h6>
 
@@ -30,6 +29,12 @@
 - :video_game: E meus hobbies são: Jogos, fotografia e criação de telas (UI).
 
 <br>
+
+<p align="center">
+<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannevolotao&" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=juliannevolotao" />
+</p>
+
 
 
 <!--
