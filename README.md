@@ -23,7 +23,7 @@
 <h6> Eu sou: </h6>
 
 - :purple_heart: Desenvolvedora Front-End.
-- :books: Estou cursando Sistemas de Informação e sou formada em técnicos de Informática para Internet e Programação de Jogos Digitais.
+- :books: Sou formada em Sistemas de Informação e nos técnicos de Informática para Internet e Programação de Jogos Digitais.
 - :hugs: Amo e estou sempre buscando aprender coisas novas e fico feliz quando posso ensinar ou ajudar alguém.
 - :nerd_face: Atualmente estou aprofundando o conhecimento nas tecnologias: ReactJS e React Native.
 - :video_game: E meus hobbies são: Jogos, fotografia e criação de telas (UI).
