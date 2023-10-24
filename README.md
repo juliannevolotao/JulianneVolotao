@@ -18,14 +18,14 @@
 
 <h3> Olá, bem vindo(a)! :wave: </h3>
 
-<p > Me chamo Julianne Volotão, tenho 23 anos e sou de Santos, litoral de São Paulo. </p>
+<p > Me chamo Julianne Volotão, tenho 24 anos e sou de Santos, litoral de São Paulo. </p>
 
 <h6> Eu sou: </h6>
 
 - :purple_heart: Desenvolvedora Front-End.
 - :books: Sou formada em Sistemas de Informação e nos técnicos de Informática para Internet e Programação de Jogos Digitais.
 - :hugs: Amo e estou sempre buscando aprender coisas novas e fico feliz quando posso ensinar ou ajudar alguém.
-- :nerd_face: Atualmente estou aprofundando o conhecimento nas tecnologias: ReactJS e React Native.
+- :nerd_face: Atualmente estou aprofundando o conhecimento em: Typescript, Dart e Flutter.
 - :video_game: E meus hobbies são: Jogos, fotografia e criação de telas (UI).
 
 <br>
