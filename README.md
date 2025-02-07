@@ -1,53 +1,49 @@
-<br>
+# Julianne Volotão
 
-<h1 > Julianne Volotão :woman_technologist:	</h1>
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/juliannevolotao)](https://github.com/juliannevolotao)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliannevolotao/)](https://www.linkedin.com/in/juliannevolotao/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:julivolotao@gmail.com)](mailto:julivolotao@gmail.com)
 
-<p > 
-  <a href="https://github.com/juliannevolotao"> 
-    <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/juliannevolotao" alt="Github badge" />
-  </a>
-  &nbsp; 
-  <a href="https://www.linkedin.com/in/juliannevolotao/"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliannevolotao/" alt="Linkedin badge" />
-  &nbsp; 
-  <a href="mailto:julivolotao@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:julivolotao@gmail.com" alt="Gmail badge" />
-  </a>
-</p>
+</br>
+
+## Olá, bem-vindo(a)! 👋
+
+Sou **Julianne Volotão**, desenvolvedora front-end apaixonada por tecnologia, design e inovação. Tenho formação em **Sistemas de Informação** e experiência com tecnologias modernas para desenvolvimento web e mobile.
+
+Atualmente, estou aprimorando minhas habilidades em **React, TypeScript e React Native** e busco desafios para criar interfaces intuitivas e performáticas. 🚀  
+
+</br>
 
 
-<h3> Olá, bem vindo(a)! :wave: </h3>
+## 🛠️ Tecnologias e Ferramentas
 
-<p > Me chamo Julianne Volotão, tenho 25 anos e sou de Santos, litoral de São Paulo. </p>
+- **Linguagens:** JavaScript, TypeScript
+- **Front-end:** React, Next.js, Tailwind CSS
+- **Mobile:** React Native, Flutter (aprendendo)
+- **Ferramentas:** Git, Figma, Notion
+- **Outros interesses:** UI/UX Design, acessibilidade, otimização de performance
 
-<h6> Eu sou: </h6>
+</br>
 
-- :purple_heart: Desenvolvedora Front-End.
-- :books: Sou formada em Sistemas de Informação e nos técnicos de Informática para Internet e Programação de Jogos Digitais.
-- :hugs: Amo e estou sempre buscando aprender coisas novas e fico feliz quando posso ensinar ou ajudar alguém.
-- :nerd_face: Atualmente estou aprofundando o conhecimento em: Typescript, React Native e Flutter
-- :video_game: E meus hobbies são: Jogos, fotografia e design para mídias sociais.
+## 📌 Projetos em Destaque  
 
-<br>
+🔹 [**Scrunner**](https://github.com/lucaslds94/Scrunner) - Projeto final do curso de desenvolvimento fullstack da DigitalHouse em parceria com o Santander.</br>
+**🚧 Em construção... 🚧**
+
+</br>
+
+## 📊 Estatísticas  
 
 <p align="center">
-<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannevolotao&" />
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=juliannevolotao" />
+  
+  <img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliannevolotao&theme=bear" />
 </p>
 
+<p align="center">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannevolotao&layout=compact&theme=bear" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliannevolotao&theme=bear" />
+</p>
 
+</br>
 
-<!--
-**juliannevolotao/JulianneVolotao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Sempre em busca de novos desafios e oportunidades para crescer! Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/juliannevolotao/).  
