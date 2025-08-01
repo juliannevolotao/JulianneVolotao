@@ -17,10 +17,9 @@ Atualmente, estou aprimorando minhas habilidades em **React, TypeScript e React 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, TypeScript
+- **Linguagens:** JavaScript (+TypeScript)
 - **Front-end:** React, Next.js, Tailwind CSS
 - **Mobile:** React Native, Flutter (aprendendo)
-- **Ferramentas:** Git, Figma, Notion
 - **Outros interesses:** UI/UX Design, acessibilidade, otimização de performance
 
 </br>
