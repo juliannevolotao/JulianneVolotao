@@ -14,16 +14,6 @@ Atualmente, estou aprimorando minhas habilidades em **React, TypeScript e React 
 
 </br>
 
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens:** JavaScript (+TypeScript)
-- **Front-end:** React, Next.js, Tailwind CSS
-- **Mobile:** React Native, Flutter (aprendendo)
-- **Outros interesses:** UI/UX Design, acessibilidade, otimização de performance
-
-</br>
-
 ## 📌 Projetos em Destaque  
 
 🔹 [**Scrunner**](https://github.com/lucaslds94/Scrunner) - Projeto final do curso de desenvolvimento fullstack da DigitalHouse em parceria com o Santander.</br>
