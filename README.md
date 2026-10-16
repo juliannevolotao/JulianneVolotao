@@ -1,38 +1,34 @@
-# Julianne Volotão
+# Julianne Volotão 👋
 
-[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/juliannevolotao)](https://github.com/juliannevolotao)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliannevolotao/)](https://www.linkedin.com/in/juliannevolotao/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:julivolotao@gmail.com)](mailto:julivolotao@gmail.com)
+**Desenvolvedora Front-End Pleno na [Zee.Dog](https://www.zeedog.com.br)** · Santos, SP · Remoto
 
-</br>
+Desenvolvo interfaces com foco em clareza e usabilidade, construídas a partir de como as pessoas realmente trabalham. Atualmente no portal administrativo do ZeeNow, com passagem pelo e-commerce da Zee.Dog.
 
-## Olá, bem-vindo(a)! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliannevolotao/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:julivolotao@gmail.com)
 
-Sou **Julianne Volotão**, desenvolvedora front-end apaixonada por tecnologia, design e inovação. Tenho formação em **Sistemas de Informação** e experiência com tecnologias modernas para desenvolvimento web e mobile.
+---
 
-Atualmente, estou aprimorando minhas habilidades em **React, TypeScript e React Native** e busco desafios para criar interfaces intuitivas e performáticas. 🚀  
+### O que eu faço
 
-</br>
+- 🧭 **Portal administrativo do ZeeNow** — integro o time que refatorou o portal, com fluxos mais diretos e uma interface mais limpa. O produto evolui continuamente a partir do feedback de quem o utiliza no dia a dia
+- 🛒 **E-commerce** — atuei no desenvolvimento e na manutenção da loja online da Zee.Dog
+- 🤖 **Desenvolvimento com IA** — Claude Code faz parte do meu fluxo de implementação e refatoração, com revisão criteriosa de todo código que segue para produção
 
-## 📌 Projetos em Destaque  
+### Stack
 
-🔹 [**Scrunner**](https://github.com/lucaslds94/Scrunner) - Projeto final do curso de desenvolvimento fullstack da DigitalHouse em parceria com o Santander.</br>
-**🚧 Em construção... 🚧**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-</br>
+### Projetos
 
-## 📊 Estatísticas  
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Volotão Seguros**](https://volotao-seguros.vercel.app/) | Site institucional para uma corretora de seguros, com catálogo de serviços filtrável por categoria, formulário de cotação e integração com WhatsApp. Desenvolvido com apoio de IA | Next.js · Tailwind · Vercel |
+| [**Scrunner**](https://github.com/lucaslds94/Scrunner) | Plataforma de gestão de times ágeis, desenvolvida em equipe no bootcamp fullstack Digital House × Santander | JavaScript · Node |
 
-<p align="center">
-  
-  <img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliannevolotao&theme=bear" />
-</p>
+---
 
-<p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannevolotao&layout=compact&theme=bear" />
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliannevolotao&theme=bear" />
-</p>
-
-</br>
-
-💡 Sempre em busca de novos desafios e oportunidades para crescer! Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/juliannevolotao/).  
+<sub>Formada em Sistemas de Informação</sub>
